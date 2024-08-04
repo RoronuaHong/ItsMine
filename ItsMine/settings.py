@@ -128,4 +128,4 @@ STATIFILES_DIRS = [
     os.path.join(BASE_DIR, 'TodoList/static')
 ]
 
-ALLOW_HOSTS = ['localhost', 'web-production-a84a.up.railway.app']
+ALLOWED_HOSTS = ['localhost', 'web-production-a84a.up.railway.app']
