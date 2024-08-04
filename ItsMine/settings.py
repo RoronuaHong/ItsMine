@@ -127,3 +127,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 STATIFILES_DIRS = [
     os.path.join(BASE_DIR, 'TodoList/static')
 ]
+
+ALLOW_HOSTS = ['localhost', 'web-production-a84a.up.railway.app']
