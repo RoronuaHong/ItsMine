@@ -45,7 +45,7 @@ INSTALLED_APPS = [
     'whitenoise.runserver_nostatic',
     'TodoList',
     'tasks',
-    'rest_framework',
+    # 'rest_framework',
 ]
 
 MIDDLEWARE = [
