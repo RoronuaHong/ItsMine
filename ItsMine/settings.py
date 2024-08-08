@@ -44,7 +44,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'whitenoise.runserver_nostatic',
     'TodoList',
-    'tasks',
+    # 'tasks',
     # 'rest_framework',
 ]
 
