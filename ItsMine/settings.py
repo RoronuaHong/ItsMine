@@ -43,7 +43,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'whitenoise.runserver_nostatic',
-    'TodoList'
+    'TodoList',
+    'tasks',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
