@@ -143,6 +143,6 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
-ALLOWED_HOSTS = ['localhost', 'web-production-6be2.up.railway.app', '127.0.0.1']
+ALLOWED_HOSTS = ['localhost', 'slimhongs.up.railway.app', '127.0.0.1']
 
 CSRF_TRUSTED_ORIGINS = ['http://*', 'https://web-production-6be2.up.railway.app']
